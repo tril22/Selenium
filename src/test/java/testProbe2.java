@@ -67,7 +67,7 @@ public class testProbe2 {
     	try { if ("Dashboard ‹ My CMS — WordPress".equals(driver.getTitle())) break; } catch (Exception e) {}
     	Thread.sleep(3000);
     }
-    System.out.println("Login passed");    
+    System.out.println("Login passed 1111111111111111111111111111111111");    
     
     
     //New Page erstellen
